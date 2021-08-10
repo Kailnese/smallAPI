@@ -1,0 +1,7 @@
+{
+    "env": {
+        "MONGO_PW": "liu83019922",
+        "JWT_KEY": "private_key",
+        "PORT": 3001
+    }
+}
